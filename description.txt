@@ -1,0 +1,2 @@
+Adds compatibility for ethereal slabs to cottages. Cottages must be updated
+to remove the dud reference to moreblocks.
